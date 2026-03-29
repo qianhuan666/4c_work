@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindInput</string>
+    <string name="ime_name">MindInput 键盘</string>
+
+    <!-- L1 休息提示 -->
+    <string name="l1_reminder_message">你已连续打字 %d 分钟，休息一下？</string>
+    <string name="l1_btn_dismiss">稍后</string>
+    <string name="l1_btn_ok">好的</string>
+
+    <!-- L2 对话卡片 -->
+    <string name="l2_title">💙 听起来今天有点难熬</string>
+    <string name="l2_message">要聊聊是什么事吗？或者我陪你做个深呼吸？</string>
+    <string name="l2_btn_chat">聊一聊</string>
+    <string name="l2_btn_breath">深呼吸</string>
+    <string name="l2_btn_dismiss">不用</string>
+
+    <!-- L4 危机干预 -->
+    <string name="l4_title">你还好吗？</string>
+    <string name="l4_message">我注意到你可能正在经历一些困难。\n你现在安全吗？</string>
+    <string name="l4_btn_talk">我想聊聊</string>
+    <string name="l4_btn_ok">我没事</string>
+
+    <!-- 隐私提示 -->
+    <string name="privacy_notice">您的隐私受到保护。所有分析均在本地完成，不会上传您的输入内容。</string>
+
+    <!-- 键盘按键 -->
+    <string name="key_done">完成</string>
+    <string name="key_delete">删除</string>
+    <string name="key_space">空格</string>
+    <string name="key_enter">换行</string>
+</resources>
